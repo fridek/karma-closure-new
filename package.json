@@ -1,0 +1,28 @@
+{
+  "name": "karma-closure-new",
+  "version": "1.0.0",
+  "description": "Closure Compiler dependencies support for karma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fridek/karma-closure-new.git"
+  },
+  "keywords": [
+    "closure",
+    "compiler",
+    "library",
+    "goog",
+    "goog.require",
+    "goog.provide",
+    "karma"
+  ],
+  "author": "Sebastian Poręba <sebastian@smashinglabs.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fridek/karma-closure-new/issues"
+  },
+  "homepage": "https://github.com/fridek/karma-closure-new#readme"
+}
